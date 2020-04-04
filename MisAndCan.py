@@ -1,8 +1,6 @@
 from copy import deepcopy
 import timeit
 
-#Athanasia Karalakou 2015030061
-# bfs algorithm based on: https://pythoninwonderland.wordpress.com/2017/03/18/how-to-implement-breadth-first-search-in-python/
 class State():
 	
 	def __init__(self):
